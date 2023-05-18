@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_Football_Yoana", "Homework_Football_Yoana\Homework_Football_Yoana.csproj", "{72A4B02D-FB42-4055-A991-3B20876D4799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_GameEngine", "Homework_GameEngine\Homework_GameEngine.csproj", "{47A0F943-9BB2-4AE1-9A72-AA71E91EE95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A4B02D-FB42-4055-A991-3B20876D4799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A4B02D-FB42-4055-A991-3B20876D4799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A4B02D-FB42-4055-A991-3B20876D4799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A4B02D-FB42-4055-A991-3B20876D4799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A0F943-9BB2-4AE1-9A72-AA71E91EE95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A0F943-9BB2-4AE1-9A72-AA71E91EE95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A0F943-9BB2-4AE1-9A72-AA71E91EE95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A0F943-9BB2-4AE1-9A72-AA71E91EE95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24B6301F-AEF3-46CD-BA46-562E36C96D38}
+	EndGlobalSection
+EndGlobal

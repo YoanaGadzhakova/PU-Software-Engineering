@@ -1,0 +1,13 @@
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.exe
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.deps.json
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.runtimeconfig.json
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.runtimeconfig.dev.json
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.dll
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\bin\Debug\netcoreapp3.1\Homework_Football_Yoana.pdb
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.csprojAssemblyReference.cache
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.AssemblyInfoInputs.cache
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.AssemblyInfo.cs
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.dll
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.pdb
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_Football_Yoana\obj\Debug\netcoreapp3.1\Homework_Football_Yoana.genruntimeconfig.cache

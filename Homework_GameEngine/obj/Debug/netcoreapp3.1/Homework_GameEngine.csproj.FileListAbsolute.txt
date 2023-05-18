@@ -1,0 +1,4 @@
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_GameEngine\obj\Debug\netcoreapp3.1\Homework_GameEngine.csprojAssemblyReference.cache
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_GameEngine\obj\Debug\netcoreapp3.1\Homework_GameEngine.AssemblyInfoInputs.cache
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_GameEngine\obj\Debug\netcoreapp3.1\Homework_GameEngine.AssemblyInfo.cs
+C:\Users\User\Documents\_University\I курс\I семестър\ООП2\Homework_Football_Yoana\Homework_GameEngine\obj\Debug\netcoreapp3.1\Homework_GameEngine.csproj.CoreCompileInputs.cache
